@@ -9,3 +9,9 @@ h1 {
 a {
     color: crimson;
 }
+
+a:hover {
+    color: blueviolet;
+    text-decoration: none;
+    text-transform: capitalize;
+}
