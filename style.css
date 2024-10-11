@@ -21,3 +21,8 @@ a:hover {
     margin: auto;
     width: auto;
 }
+
+.list {
+    text-align: justify;
+    margin: 30px;
+}
